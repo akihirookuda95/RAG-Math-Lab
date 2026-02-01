@@ -37,7 +37,7 @@
 - `.gitignore` により `.venv/` や `.cursor/` 等の生成物をコミット対象から除外
 
 ## 6. 関連ファイル（Files touched / relevant files）
-- `docs/week1_linear_algebra_basics.md`
+  - `docs/notes/week1_linear_algebra_basics.md`
   - **なぜ重要か**: Week1-2の基礎教材（内積・コサイン類似度・射影）
   - **何が変わったか**: 数式表記を `$...$ / $$...$$` に統一して可読性改善
 - `scripts/linear_algebra_basics.py`
@@ -49,7 +49,7 @@
 - `docs/notes/2026-02-01_high_dim_geometry.md`
   - **なぜ重要か**: 高次元幾何の全体解説＋Q&A＋実験結果の解釈（`std/mean`）
   - **何が変わったか**: 実験ログ（d=2..8192）を追記し、その意味を言語化
-- `docs/week1_tomorrow_tasks.md`
+  - `docs/todos/tomorrow_tasks.md`
   - **なぜ重要か**: 学習TODOのチェックリスト
   - **何が変わったか**: 明日の実施項目を整理
 - `README.md`

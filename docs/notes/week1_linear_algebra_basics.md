@@ -1,6 +1,6 @@
 # Week 1-2: 線形代数の基礎（内積・コサイン類似度・射影）
 
-このドキュメントは、`docs/RAG_mathematical_foundation_learning_plan.md` の **Week 1-2**（線形代数）を始めるための最小セットです。
+このドキュメントは、`docs/roadmap/RAG_mathematical_foundation_learning_plan.md` の **Week 1-2**（線形代数）を始めるための最小セットです。
 
 ## 今日のゴール
 

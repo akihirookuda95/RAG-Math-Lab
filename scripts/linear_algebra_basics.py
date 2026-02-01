@@ -58,7 +58,7 @@ def angle_radians(v: np.ndarray, u: np.ndarray) -> float:
 
 
 def run_handcalc_example() -> None:
-    # docs/week1_linear_algebra_basics.md の手計算例に合わせる
+    # docs/notes/week1_linear_algebra_basics.md の手計算例に合わせる
     u = np.array([1.0, 2.0])
     v = np.array([2.0, 1.0])
 

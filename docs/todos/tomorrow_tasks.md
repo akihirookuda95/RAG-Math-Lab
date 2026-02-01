@@ -4,7 +4,7 @@
 
 ## 1) 読む（30 分）
 
-- [ ] `docs/week1_linear_algebra_basics.md` の **「2. 内積」→「3. コサイン類似度」** を通読
+- [ ] `docs/notes/week1_linear_algebra_basics.md` の **「2. 内積」→「3. コサイン類似度」** を通読
 - [ ] 各式を **日本語で 1 行**に言い換える（自分の言葉で）
   - [ ] $v\cdot u = \|v\|\,\|u\|\,\cos\theta$
   - [ ] $\cos\theta = \dfrac{v\cdot u}{\|v\|\,\|u\|}$
@@ -12,7 +12,7 @@
 
 ## 2) 手計算（45 分）
 
-- [ ] `docs/week1_linear_algebra_basics.md` の **「4. 手計算で確認」** を、途中式込みで自力で計算
+- [ ] `docs/notes/week1_linear_algebra_basics.md` の **「4. 手計算で確認」** を、途中式込みで自力で計算
   - [ ] $u=(1,2),\ v=(2,1)$
   - [ ] 内積 $v\cdot u$
   - [ ] ノルム $\|u\|,\ \|v\|$
@@ -21,7 +21,7 @@
 
 ## 3) 射影（30 分）
 
-- [ ] `docs/week1_linear_algebra_basics.md` の **「5. 射影」** を、途中式込みで手計算
+- [ ] `docs/notes/week1_linear_algebra_basics.md` の **「5. 射影」** を、途中式込みで手計算
   - [ ] $\operatorname{proj}_u(v) = \dfrac{v\cdot u}{u\cdot u}\,u$
 - [ ] 射影が「$u$ 方向成分」だと言える理由を **自分の言葉で 1 段落**書く
 

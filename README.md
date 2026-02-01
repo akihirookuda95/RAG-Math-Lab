@@ -4,11 +4,11 @@
 
 ## 学習概要書
 
-- `docs/RAG_mathematical_foundation_learning_plan.md`
+- `docs/roadmap/RAG_mathematical_foundation_learning_plan.md`
 
 ## Week 1-2: 線形代数（内積・コサイン類似度・射影）
 
-- 読む: `docs/week1_linear_algebra_basics.md`
+- 読む: `docs/notes/week1_linear_algebra_basics.md`
 - 検算: `scripts/linear_algebra_basics.py`
 
 ### 実行方法
