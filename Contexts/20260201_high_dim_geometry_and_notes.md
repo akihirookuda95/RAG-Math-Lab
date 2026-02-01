@@ -37,7 +37,7 @@
 - `.gitignore` により `.venv/` や `.cursor/` 等の生成物をコミット対象から除外
 
 ## 6. 関連ファイル（Files touched / relevant files）
-  - `docs/notes/week1_linear_algebra_basics.md`
+  - `docs/notes/2026-02-01_linear_algebra_basics.md`
   - **なぜ重要か**: Week1-2の基礎教材（内積・コサイン類似度・射影）
   - **何が変わったか**: 数式表記を `$...$ / $$...$$` に統一して可読性改善
 - `scripts/linear_algebra_basics.py`

@@ -8,7 +8,7 @@
 
 ## Week 1-2: 線形代数（内積・コサイン類似度・射影）
 
-- 読む: `docs/notes/week1_linear_algebra_basics.md`
+- 読む: `docs/notes/2026-02-01_linear_algebra_basics.md`
 - 検算: `scripts/linear_algebra_basics.py`
 
 ### 実行方法
